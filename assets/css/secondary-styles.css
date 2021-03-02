@@ -6,6 +6,7 @@
     height: auto;
     text-align: center;
     margin-bottom: 40px;
+    display: inline-block;
 }
 
 .page-title{
@@ -46,3 +47,4 @@ article li {
     color: #39a6b2;
     margin: 10px 0;
 }
+
